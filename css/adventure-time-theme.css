@@ -1113,3 +1113,138 @@ label {
     background: #ffffff;
     box-shadow: 0 2px 1px rgba(0, 0, 0, 0.2);
 }
+
+
+/*----------------- Estilos personalizados */
+
+
+
+#topbar
+{
+    background: #424a5d;
+    height: 50px;
+}
+#topbar a
+{
+    color:#FFFFFF;
+    font-size: 16px;
+}
+
+#main-content li
+{
+    display: inline-block;
+    margin-left: 20px;
+    text-align: center;   
+}
+
+.main-content .fa
+{
+    margin-left: 30px;
+}
+
+
+a
+
+{
+    color: #AAABA9;
+
+}
+.lista   a
+{
+   font-size: 40px; 
+    text-align: center;
+}
+
+.bonnibel img
+{
+    height: 80px;
+    width: 80px;
+    text-align: center;
+    padding: 5px 10px 5px 10px;
+    right: 20px;
+    border-radius: 80px;
+    margin-right: -30px;
+}
+
+.bonnibel p
+{
+color: white;
+text-align: center;
+}
+
+.candy .col-sm-3
+{
+    background-color: white;
+}
+
+.lista2  a
+{
+    font-size: 10px;
+    background-color: #58FAF4;
+    background-size: 130px;
+    border-radius: 30px;
+  
+}
+
+.candy-clock li
+{
+    display: inline-block;
+}
+
+.lista2 a
+{
+    font-size: 20px;
+}
+
+.lista2 i
+{
+width: 25px;
+text-align: center;
+}
+
+
+.candy h4
+{
+    background-color: purple;
+    color: white;
+    height: 60px;
+    text-align: center;
+}
+.lista3 img
+{
+    height: 30px;
+    width: 30px;
+    border-radius: 30px;
+}
+.lista3 b
+{
+    color: #a69dff;
+}
+
+
+
+
+
+
+
+/*Galeria*/
+
+.galery
+{
+    display: inline-block;
+}
+
+.galery img
+{
+    height:200px;
+    width: 300px;
+    padding:0px 0px 20px 0px ;
+}
+
+
+
+
+
+*{
+    outline:1px solid red;
+}
